@@ -10,7 +10,7 @@ export class HeaderComponent implements OnInit {
   totalItemNumber: number =0;
   constructor(private cartApi:CartapiService){}
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
+    
   }
 
 
